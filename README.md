@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="460" src="https://github.com/AyaKhaledYousef/AyaKhaledYousef/blob/main/computer.gif">
+  <img width="460" height="460" src="https://github.com/AyaKhaledYousef/AyaKhaledYousef/blob/main/coding.gif">
 </p>
 
 
