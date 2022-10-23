@@ -1,5 +1,7 @@
-# Hi there 👋
-![image](https://github.com/AyaKhaledYousef/AyaKhaledYousef/blob/main/9720689.jpeg)
+<p align="center">
+  <img width="460" height="460" src="https://github.com/AyaKhaledYousef/AyaKhaledYousef/blob/main/9720689.jpeg">
+</p>
+
 
 <!--
 **AyaKhaledYousef/AyaKhaledYousef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
