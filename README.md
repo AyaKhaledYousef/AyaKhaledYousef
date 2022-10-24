@@ -1,3 +1,6 @@
+# "Programming isn't about what you know; it's about what you can figure out.”👯🔭
+
+
 <p align="center">
   <img width="460" height="460" src="https://github.com/AyaKhaledYousef/AyaKhaledYousef/blob/main/busy-working-cats.gif">
 </p>
